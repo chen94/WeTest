@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         String str = "form tp";
+        String str1 ="test form mac";
     }
 }
