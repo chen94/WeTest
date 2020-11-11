@@ -15,5 +15,7 @@ public class MainActivity extends AppCompatActivity {
         String str = "form tp";
         String str1 ="test form mac";
         String str2 = "test from tp";
+
+        String test1 = "";
     }
 }
